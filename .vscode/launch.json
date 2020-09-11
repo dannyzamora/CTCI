@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BestTimeToBuy",
+            "request": "launch",
+            "mainClass": "LeetCode.BestTimeToBuy",
+            "projectName": "ctci_ce25d242"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RemovingDuplicates",
+            "request": "launch",
+            "mainClass": "LeetCode.RemovingDuplicates",
+            "projectName": "ctci_ce25d242"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Permutauion",
+            "request": "launch",
+            "mainClass": "arrays.Permutauion",
+            "projectName": "ctci_ce25d242"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Playground",
+            "request": "launch",
+            "mainClass": "arrays.Playground",
+            "projectName": "ctci_ce25d242"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IsUnique",
+            "request": "launch",
+            "mainClass": "arrays.IsUnique",
+            "projectName": "ctci_ce25d242"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IsUnique<ctci_175cc714>",
+            "request": "launch",
+            "mainClass": "arrays.IsUnique",
+            "projectName": "ctci_175cc714"
+        }
+    ]
+}
